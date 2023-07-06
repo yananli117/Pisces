@@ -1,0 +1,26 @@
+[Thu Jul 06 16:30:33 AEST 2023][INFO]class java.util.logging.LogRecordThis is test java util log
+[Thu Jul 06 16:30:35 AEST 2023][INFO]class java.util.logging.LogRecordIteration: 100
+[Thu Jul 06 16:30:37 AEST 2023][INFO]class java.util.logging.LogRecord
+Join/Register procedure:
+[Thu Jul 06 16:30:37 AEST 2023][INFO]class java.util.logging.LogRecordUser time: 9ms per iteration
+[Thu Jul 06 16:30:37 AEST 2023][INFO]class java.util.logging.LogRecordPlatform time: 7ms per iteration
+[Thu Jul 06 16:30:37 AEST 2023][INFO]class java.util.logging.LogRecordUser communication byte Length: 2634
+[Thu Jul 06 16:30:37 AEST 2023][INFO]class java.util.logging.LogRecordPlatform communication byte Length: 1817
+[Thu Jul 06 16:30:39 AEST 2023][INFO]class java.util.logging.LogRecord
+Deposit Coin#1, Amount 50000, Price 10:
+[Thu Jul 06 16:30:39 AEST 2023][INFO]class java.util.logging.LogRecordUser time: 11ms per iteration
+[Thu Jul 06 16:30:39 AEST 2023][INFO]class java.util.logging.LogRecordPlatform time: 14ms per iteration
+[Thu Jul 06 16:30:39 AEST 2023][INFO]class java.util.logging.LogRecordUser communication byte Length: 3373
+[Thu Jul 06 16:30:39 AEST 2023][INFO]class java.util.logging.LogRecordPlatform communication byte Length: 1804
+[Thu Jul 06 16:30:53 AEST 2023][INFO]class java.util.logging.LogRecord
+Exchange coin#1 to coin#4 with amount 20 to 50:
+[Thu Jul 06 16:30:53 AEST 2023][INFO]class java.util.logging.LogRecordUser time: 46ms per iteration
+[Thu Jul 06 16:30:53 AEST 2023][INFO]class java.util.logging.LogRecordPlatform time: 88ms per iteration
+[Thu Jul 06 16:30:53 AEST 2023][INFO]class java.util.logging.LogRecordUser communication byte Length: 12061
+[Thu Jul 06 16:30:53 AEST 2023][INFO]class java.util.logging.LogRecordPlatform communication byte Length: 2754
+[Thu Jul 06 16:31:03 AEST 2023][INFO]class java.util.logging.LogRecord
+Withdraw coin#1, amount 2, price 50:
+[Thu Jul 06 16:31:03 AEST 2023][INFO]class java.util.logging.LogRecordUser time: 37ms per iteration
+[Thu Jul 06 16:31:03 AEST 2023][INFO]class java.util.logging.LogRecordPlatform time: 62ms per iteration
+[Thu Jul 06 16:31:03 AEST 2023][INFO]class java.util.logging.LogRecordUser communication byte Length: 8703
+[Thu Jul 06 16:31:03 AEST 2023][INFO]class java.util.logging.LogRecordPlatform communication byte Length: 2293
