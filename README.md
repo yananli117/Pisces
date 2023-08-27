@@ -1,5 +1,6 @@
 # Pisces
-This is a prototype of the private and compliable cryptocurrency exchange scheme in Java.
+This is a prototype of the private and compliable cryptocurrency exchange scheme in Java. The scheme is detailed described in paper "Pisces: Private and Compliable Cryptocurrency Exchange".
+
 ## Description
 Pisces is a secure design of the private and compliable cryptocurrency exchange system. The system includes two entities: the user and the platform. It achieves four main functions to enable the user to join the system, deposit coins to the platform, exchange coins with the platform, and withdraw coins from the platform to the blockchain.
 
