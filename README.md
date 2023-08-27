@@ -49,3 +49,6 @@ We follow their design logic and adjust according to our needed zero-knowledge p
 java -jar uacs-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 Our test results of uacs are shown in uacstestlog.log under the same environment as the Pisces test.
+
+## Acknowledgement
+Portions of the project have been copied from project [acs-incentive-system](https://github.com/cryptimeleon/uacs-incentive-system) and are copyrighted by [Jan Bobolz](https://github.com/JanBobolz) and [feidens](https://github.com/feidens)  under the terms of the Apache-2.0 license.
